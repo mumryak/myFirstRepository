@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MyNavController.h
 //  TrainTVNavigationAndCustomCell
 //
 //  Created by Yura Mumryak on 07.07.17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MyNavController : UINavigationController
 
 @end
-
